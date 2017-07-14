@@ -1,4 +1,4 @@
-# Deploying a CIFAR-10 CNN in ML Engine
+CIFAR-10 CNN Model
 
 Based from [Tensorflow's CNN tutorial](https://github.com/tensorflow/models/tree/master/tutorials/image/cifar10) and [mltoolbox_datalab_image_classification](https://github.com/googledatalab/pydatalab/tree/master/solutionbox/image_classification/mltoolbox/image/classification).
 
